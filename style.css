@@ -68,11 +68,12 @@ nav button{
     margin-top: 100px;
 }
 
-.header-content h1{
+.h1{
     font-size: 60px;
     line-height: 70px;
     font-weight: 600;
-    max-width: 650px;
+    
+    text-align: center;
 }
 
 .header-content h3{
@@ -292,8 +293,9 @@ input[type="radio"]{
         padding-top: 150px;
     }
 
-    .header-content h1{
+    .h1{
         font-size: 30px;
+        text-align: center;
     }
     .email-signup button{
         padding: 10px 15px;
